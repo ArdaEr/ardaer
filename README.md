@@ -12,10 +12,11 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arda-erdogan/)
-&nbsp;
-<!-- <p align="left">
-<a href="https://www.linkedin.com/in/arda-erdogan/" target="blank" rel=”noopener”><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="arda-linkedin" height="30" width="30" /></a> -->
+<p align="left">
+<a href="https://www.linkedin.com/in/arda-erdogan/" target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="arda-linkedin" height="30" width="30" /></a> -->
+<a href="https://discordapp.com/users/238976488869724162" target="blank" rel=”noopener”><img align="center" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" alt="arda-discord" height="30" width="30" /></a>
+<a href="https://t.me/cardaerdogan" target="blank" rel="noopener"><img align="center" src="https://seeklogo.com/images/T/telegram-new-2019-logo-060F2D4B81-seeklogo.com.png" alt="arda-telegram" height="30" width="30" /></a>
+</p>
 
-<!-- <a href="https://discordapp.com/users/238976488869724162" target="blank" rel=”noopener”><img align="center" src="./img/discord-light.svg)" alt="arda-discord" height="30" width="30" /></a>
-<a href="https://t.me/cardaerdogan" target="blank" rel="noopener"><img align="center" src="./img/telegram-light.svg)" alt="arda-telegram" height="30" width="30" /></a> -->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ArdaEr&title=Commit,MultiLanguage,Repositories,Stars,PullRequest,Issues&margin-w=5&no-bg=true" alt="ardaerdogan" /></a> </p>
+<p>
