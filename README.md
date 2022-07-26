@@ -14,6 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/arda-erdogan/" target="blank" rel=”noopener”><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="arda-linkedin" height="30" width="30" /></a>
+&nbsp;
 <!-- <a href="https://discordapp.com/users/238976488869724162" target="blank" rel=”noopener”><img align="center" src="./img/discord-light.svg)" alt="arda-discord" height="30" width="30" /></a>
 <a href="https://t.me/cardaerdogan" target="blank" rel="noopener"><img align="center" src="./img/telegram-light.svg)" alt="arda-telegram" height="30" width="30" /></a> -->
 </p>
