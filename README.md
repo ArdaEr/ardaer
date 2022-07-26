@@ -14,9 +14,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/arda-erdogan/" target="blank" rel=”noopener”><img align="center" src="https://velanovascular.com/wp-content/uploads/2020/06/LinkedIn.png" alt="arda-linkedin" height="30" width="30" /></a> 
-<a href="https://discordapp.com/users/238976488869724162" target="blank" rel=”noopener”><img align="center" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" alt="arda-discord" height="30" width="30" /></a>
+<a href="https://discordapp.com/users/238976488869724162" target="blank" rel=”noopener”><img align="center" src="https://seeklogo.com/images/D/discord-logo-134E148657-seeklogo.com.png" alt="arda-discord" height="30" width="28" /></a>
 <a href="https://t.me/cardaerdogan" target="blank" rel="noopener"><img align="center" src="https://seeklogo.com/images/T/telegram-new-2019-logo-060F2D4B81-seeklogo.com.png" alt="arda-telegram" height="30" width="30" /></a>
 </p>
+
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
 <a href="https://unity.com/" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" alt="csharp" width="30" height="30"/> </a>
