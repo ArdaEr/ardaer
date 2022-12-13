@@ -35,7 +35,7 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArdaEr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFFFD0&bg_color=09131B&text_color=ffffff&border_color=C337D1&locale=en&layout=compact" alt="ardaerdogan" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ArdaEr&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFFFD0&bg_color=09131B&text_color=ffffff&border_color=C337D1" alt="ardaerdogan"/></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArdaEr&show_icons=true&hide_border=false&title_color=ff652f&bg_color=09131B&text_color=FFFFD0&border_color=C337D1&locale=en&layout=compact" alt="ardaerdogan" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ArdaEr&show_icons=true&hide_border=false&title_color=ff652f&bg_color=09131B&text_color=FFFFD0&border_color=C337D1" alt="ardaerdogan"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ArdaEr&label=Profile%20views&color=C337D1&style=flat" alt="ardaerdogan" /> </p>
