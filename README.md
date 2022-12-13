@@ -21,17 +21,17 @@
 <h3 align="left">Technologies:</h3>
 <p align="left"> 
 <a href="https://unity.com/" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" alt="csharp" width="40" height="40"/> </a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="27" height="40"/> </a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" width="40" height="40"/> </a>
 <a href="https://www.w3.org/html/" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="33" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel=”noopener”> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="35" height="40"/> </a> 
+<a href="https://reactjs.org/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" alt="react" width="40" height="40"/> </a> 
 
   
 <h3 align="left">Tools:</h3>
 <a href="https://code.visualstudio.com/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" alt="vscode" width="40" height="40"/> </a> 
 <a href="https://discord.com/" target="_blank" rel=”noopener”> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="discord" width="40" height="40"/> </a> 
 <a href="https://desktop.github.com target="_blank" rel=”noopener”> <img src="https://desktop.github.com/images/desktop-icon.svg" alt="githubdesktop" width="40" height="40"/> </a>
-<a href="https://miro.com/" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/M/miro-logo-A7556EE400-seeklogo.com.png" alt="miro" width="40" height="40"/> </a>
+<a href="https://miro.com/" target="_blank" rel=”noopener”> <img src="https://seeklogo.com/images/M/miro-logo-A7556EE400-seeklogo.com.png" alt="miro" width="40" height="36"/> </a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ArdaEr&label=Profile%20views&color=red&style=flat" alt="ardaerdogan" /> </p>
