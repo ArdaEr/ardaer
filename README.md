@@ -9,6 +9,9 @@
 - 💬 Ask me about anything related to Unity/C#
 
 - 📫 How to reach me **cengizhanarda98@gmail.com**
+
+- 🖥️ Also reach my projects at [itch.io][Itch.io]
+
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -40,3 +43,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ArdaEr&show_icons=true&hide_border=false&title_color=E88DE4&icon_color=FFFFD0&bg_color=09131B&text_color=ffffff&border_color=C337D1" alt="ardaerdogan"/></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ArdaEr&label=Profile%20views&color=C337D1&style=flat" alt="ardaerdogan" /> </p>
+
+[Itch.io]: https://ardaer.itch.io
