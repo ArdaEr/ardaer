@@ -2,11 +2,11 @@
 
 <p>
 
-- 🔭 I’m currently working on Unity Engine
+🔭 I’m currently working on Selenium / Unreal Engine
 
-- 🌱 I’m currently learning Unity Engine, C#
+🌱 I’m currently learning Selenium, Java, Unreal Engine
 
-- 💬 Ask me about anything related to Unity/C#
+💬 Ask me about anything related to Selenium, Java, and Unreal Engine.
 
 - 📫 How to reach me **cengizhanarda98@gmail.com**
 
