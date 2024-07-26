@@ -8,9 +8,9 @@
 
 💬 Ask me about anything related to Selenium, Java, and Unreal Engine.
 
-- 📫 How to reach me **cengizhanarda98@gmail.com**
+📫 How to reach me **cengizhanarda98@gmail.com**
 
-- 🖥️ Also reach my projects at [itch.io][Itch.io]
+🖥️ Also reach my projects at [itch.io][Itch.io]
 
 </p>
 
